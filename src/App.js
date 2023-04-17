@@ -34,7 +34,7 @@ function App({ signOut }) {
           overrideItems={({ item, idx }) => {
             return {
               overrides: {
-                Vector31472747: {
+                Vector31472745: {
                   as: "button",
                   onClick: () => {
                     setShowUpdateModal(true);
